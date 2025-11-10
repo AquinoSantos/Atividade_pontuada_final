@@ -4,7 +4,7 @@ body {
   font-family: Arial, sans-serif;
   background: linear-gradient(180deg, #b2fde7, #ffffff); /* azul → verde */
   background-attachment: fixed; /* faz o fundo não rolar com a página */
-  color: #333;: #3dbb0c;
+  
 }
 
 * {
